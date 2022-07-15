@@ -1,0 +1,6 @@
+[N]Name: Summer Liew
+   Gender: Female
+   Age: 27
+   Working Experience: 5 years
+   Training Type: Strict
+   Price per hour: RM35 - RM50

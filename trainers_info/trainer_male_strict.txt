@@ -1,0 +1,41 @@
+[C]Name: Oscar Leo 
+   Gender: Male
+   Age: 22
+   Working Experience: 3 years
+   Training Type: Strict
+   Price per hour: RM20 - RM35
+
+[D]Name: Waynne Lee
+   Gender: Male
+   Age: 25
+   Working Experience: 5 years
+   Training Type: Strict
+   Price per hour: RM20 - RM35
+
+[E]Name: Ryze Ho
+   Gender: Male
+   Age: 30
+   Working Experience: 10 years
+   Training Type: Strict
+   Price per hour: RM50 - RM70
+
+[G]Name: Lee Sin 
+   Gender: Male
+   Age: 26
+   Working Experience: 6 years
+   Training Type: Strict
+   Price per hour: RM30 - RM45
+
+[H]Name: Rex Lai 
+   Gender: Male
+   Age: 27
+   Working Experience: 4 years
+   Training Type: Strict
+   Price per hour: RM35 - RM50
+
+[I]Name: Harry Oliver 
+   Gender: Male
+   Age: 45
+   Working Experience: 15 years
+   Training Type: Strict
+   Price per hour: RM80 - RM100

@@ -1,0 +1,13 @@
+[A]Name: Eden Chia
+   Gender: Male
+   Age: 35
+   Working Experience: 10 years
+   Training Type: Friendly
+   Price per hour: RM35 - RM50
+
+[B]Name: Jack Mah 
+   Gender: Male
+   Age: 30
+   Working Experience: 5 years
+   Training Type: Friendly
+   Price per hour: RM25 - RM40

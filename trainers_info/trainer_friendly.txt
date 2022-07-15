@@ -1,0 +1,76 @@
+[A]Name: Eden Chia
+   Gender: Male
+   Age: 35
+   Working Experience: 10 years
+   Training Type: Friendly
+   Price per hour: RM35 - RM50
+
+[B]Name: Jack Mah 
+   Gender: Male
+   Age: 30
+   Working Experience: 5 years
+   Training Type: Friendly
+   Price per hour: RM25 - RM40
+
+[F]Name: George Lo 
+   Gender: Male
+   Age: 23
+   Working Experience: 3 years
+   Training Type: Friendly
+   Price per hour: RM25 - RM35
+
+[J]Name: Charlie Sia 
+   Gender: Male
+   Age: 20
+   Working Experience: 2 years
+   Training Type: Friendly
+   Price per hour: RM20 - RM35
+
+[K]Name: Vina Sia 
+   Gender: Female
+   Age: 20
+   Working Experience: 2 years
+   Training Type: Friendly
+   Price per hour: RM20 - RM35
+
+[L]Name: Ally Chia 
+   Gender: Female
+   Age: 22
+   Working Experience: 2 years
+   Training Type: Friendly
+   Price per hour: RM20 - RM35
+
+[M]Name: Anabel Yi
+   Gender: Female
+   Age: 25
+   Working Experience: 4 years
+   Training Type: Friendly
+   Price per hour: RM35 - RM40
+
+[Q]Name: Bella Wong 
+   Gender: Female
+   Age: 25
+   Working Experience: 3 years
+   Training Type: Friendly
+   Price per hour: RM25 - RM45
+
+[R]Name: Beatrice Sia 
+   Gender: Female
+   Age: 27
+   Working Experience: 3 years
+   Training Type: Friendly
+   Price per hour: RM20 - RM35
+
+[S]Name: Vayne Sia 
+   Gender: Female
+   Age: 30
+   Working Experience: 7 years
+   Training Type: Friendly
+   Price per hour: RM35 - RM45
+
+[T]Name: Senna Lu 
+   Gender: Female
+   Age: 23
+   Working Experience: 3 years
+   Training Type: Friendly
+   Price per hour: RM20 - RM35

@@ -1,0 +1,42 @@
+Trainer Name:Beatrice Sia
+Customer Name:nathan
+Date:12/12/19
+Time:1400
+Hours booked:2
+
+Trainer Name:Harry Oliver
+Customer Name:gab
+Date:12/12/19
+Time:1200
+Hours booked:2
+
+Trainer Name:Lee Sin
+Customer Name:lim
+Date:12/12/12
+Time:2300
+Hours booked:2
+
+Trainer Name:Vayne Sia
+Customer Name:shen
+Date:12/12/19
+Time:1200
+Hours booked:2
+
+Trainer Name:Rex Lai
+Customer Name:wong
+Date:12/12/19
+Time:1200
+Hours booked:2
+
+Trainer Name:Faith Lim
+Customer Name:123
+Date:01/05/19
+Time:1600
+Hours booked:2
+
+Trainer Name:Senna Lu
+Customer Name:lim
+Date:01/05/19
+Time:1600
+Hours booked:2
+
